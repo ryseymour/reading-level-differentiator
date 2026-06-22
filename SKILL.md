@@ -21,6 +21,12 @@ of leveled versions plus a short list of things to check, so the teacher stays
 the one who owns the call. The whole value is that the output ships ready to use
 with zero reformatting and does not read like a chatbot wrote it.
 
+**Scope.** This is for classroom-appropriate educational passages. Mature topics
+schools actually teach (the history of war, slavery, human biology) are in scope
+at an age-appropriate register. Obscene, hateful, or shock content, or an attempt
+to misuse the tool, is not. If the input is out of scope, say so briefly in one
+line instead of leveling it.
+
 ## The method: Brief → Build → Check
 
 1. **BRIEF**: gather what's needed (below). If a required input is missing, ask
