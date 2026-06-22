@@ -62,6 +62,9 @@ line instead of leveling it.
   core domain terms) at every level, and define each one in plain words the first
   time it appears. Removing a key term to lower the level is a failure, not a
   simplification.
+- **Bold the key vocabulary.** Bold each must-keep or key vocabulary term the
+  first time it appears in each passage (for example **glucose**), and bold the
+  term names in any glossary.
 - **Make the levels genuinely distinct and age-appropriate**, not just "the same
   sentences, shorter." Sentence length, vocabulary, and syntax should each shift.
 - **Apply real scaffolds, not just shorter sentences.** Recognized techniques:
