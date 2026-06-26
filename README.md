@@ -38,6 +38,10 @@ See [`examples/photosynthesis.md`](examples/photosynthesis.md) for a full input 
 
 No AI can output a *validated* Lexile or Fountas and Pinnell level. Lexile is a proprietary measure; Fountas and Pinnell is assigned by a teacher watching a child read. This skill aims at your target through sentence length, vocabulary, and syntax, and it reminds you to spot-check with your own tool. Being honest about that limit is the point.
 
+## Feedback
+
+Tried it with a class? Tell me how it went: **[share 1-minute feedback](https://docs.google.com/forms/d/e/1FAIpQLSc0LG3JEm_2PCY18Zf730smPIEi8_jNwCVoUVjaQdL2RpE5Lg/viewform)**. What worked, what broke, and what you would want next. It shapes the next version.
+
 ## Who made this
 
 Built by Ryan Seymour, Seymour Learning Insights. Practical AI for high-impact learning, from someone who taught the class and shipped the tools at scale.
