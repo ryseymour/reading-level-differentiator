@@ -4,6 +4,8 @@ A free AI Skill that rewrites a classroom passage at multiple reading levels, ke
 
 Built for the teacher who has one text and a class that reads at five different levels. Works across subjects: science, social studies, civics, any reading you hand students. (It is a general differentiation tool, not a reading-instruction program.)
 
+This tool is introduced in the Substack post [A Passage for All Readers](https://ryseymour.substack.com/p/a-passage-for-all-readers).
+
 ## What it does
 
 - Takes a passage, your target levels (grade bands, Lexile, or guided-reading), and any must-keep vocabulary.
